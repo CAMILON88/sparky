@@ -430,14 +430,14 @@ th {
 
 header{
 	color:#000;
-	background-image: url("city-sunet.jpg");
+	background-image: url("traffic.jpg");
 	background-size:cover;
 	background-position: center;
 	text-align: center;
 	font-family:'helvetica neue','arial';
 	height: 550px;
 	position: static;
-	
+
 
 }
 .imgsp{
@@ -448,7 +448,7 @@ header{
 	display: block;
 	border: 5px solid white;
 	position: absolute;
-	
+
 
 }
 .info{
@@ -457,56 +457,185 @@ header{
 	font-family: 'helvetica neue';
 	color:white;
 	font-size: 25px;
-	
 }
-.table-of-information{
 
-	width:480px;			
+
+.table-of-information{
+	width:460px;
 	height:350px;
 	background: white;
 	border-radius:20px;
 	font-family:'helvetica neue';
 	font-size: 20px;
-	margin: 18px 25px 10px 50px; 
-	border-color: #000000;
+	margin: 18px 25px 10px 50px;
 	border: 10px;
 	padding: 10px;
 	text-align: center;
-	border: 5px solid #8AC007;
+	border: 5px solid #4300ff;
 	display: inline-table;
-	
 }
+
+
 .table-of-information p{
-	font-family: 'consolas';
+	font-family: 'helvetica';
 }
+
 
 .skills{
 	margin-top: 20px;
 	border-radius: 100%;
 	width: 200px;
 	height: 200px;
-	background: gray;
+	background: #edeaf7;
 	display:inline-table;
-	margin: 0 25px 0 65px
-
-
+	margin: 0 25px 0 60px
 }
+
+
 .i{
-	margin: 25px 20px 25px 45px;
+	margin: 47px 20px 25px 47px;
 	width: 100px;
 	height: 100px;
-	
-
 
 }
-.title-skills{
 
+
+.title-skills-contac{
+  font:'helvetica neue';
 	text-align: center;
-	font-size: 40px;
+	font-size: 45px;
+	margin-top: 25px
 }
 
 
+.contac{
+		background: #edeaf7;
+		height: 200px;
+		width: 800px;
+		border-radius: 10px;
+		margin: 20px 200px 40px 480px;
+    font-size: 25px;
+    display: inline-block;
+    text-align: center;
+}
 
 
+.img-contact{
+   width: 80px;
+   height: 80px;
+   margin: 25px 70px 0 90px;
+ }
 
 
+.info-text{
+  display: inline-block;
+  margin:20px 35px 20px 35px;
+}
+
+.title-rails{
+  width: 130px;
+  height:35px;
+  background:#edeaf7;
+  display: inline-table;
+  border-radius: 10px;
+  margin: 10px 64px 40px 95px;
+
+}
+
+.title-ruby{
+  width: 130px;
+  height:35px;
+  background: #edeaf7;
+  display: inline-table;
+  border-radius: 10px;
+  margin: 10px 55px 40px 98px;
+
+}
+
+.title-html{
+  width: 130px;
+  height:35px;
+  background: #edeaf7;
+  display: inline-table;
+  border-radius: 10px;
+  margin: 10px 64px 40px 96px;
+
+}
+
+.title-css{
+  width: 130px;
+  height:35px;
+  background: #edeaf7;
+  display: inline-table;
+  border-radius: 10px;
+  margin: 10px 64px 40px 92px;
+
+}
+
+.title-github{
+  width: 130px;
+  height:35px;
+  background: #edeaf7;
+  display: inline-table;
+  border-radius: 10px;
+  margin: 10px 55px 40px 94px;
+
+}
+
+.title-boostrap{
+  width: 130px;
+  height:35px;
+  background: #edeaf7;
+  display: inline-table;
+  border-radius: 10px;
+  margin: 10px 55px 40px 98px;
+
+}
+.title-rails2{
+
+  margin-left: 35px;
+  font-size: 24px;
+  padding-top: 10px
+  color: white;
+  font-family: 'helvetica neue';
+}
+.title-ruby2{
+
+  margin-left: 35px;
+  font-size: 24px;
+  padding-top: 10px
+  color: white;
+  font-family: 'helvetica neue';
+}
+.title-html2{
+
+  margin-left: 35px;
+  font-size: 24px;
+  padding-top: 10px
+  color: white;
+  font-family: 'helvetica neue';
+}
+.title-css2{
+
+  margin-left: 35px;
+  font-size: 24px;
+  padding-top: 10px
+  color: white;
+  font-family: 'helvetica neue';
+}
+.title-github2{
+
+  margin-left: 25px;
+  font-size: 24px;
+  padding-top: 10px
+  color: white;
+  font-family: 'helvetica neue';
+}
+.title-boostrap2{
+
+  margin-left: 20px;
+  font-size: 24px;
+  padding-top: 10px
+  color: white;
+  font-family: 'helvetica neue';
+}
